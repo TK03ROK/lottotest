@@ -4,6 +4,7 @@
 
 int main()
 {
+    //show me the why!
 
     int i, i1, i2, i3, i4, i5, Ly, Ld, Lm, Cy, Cm, Cd, yc;
 
